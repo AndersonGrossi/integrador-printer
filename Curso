@@ -1,0 +1,4 @@
+Public class Curso{
+  private long idCurso;
+  private String Descrição;
+}
